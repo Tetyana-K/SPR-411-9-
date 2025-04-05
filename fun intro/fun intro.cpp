@@ -20,6 +20,7 @@ void drawLine(int length = 80, char symbol = '_')
     }
     cout << endl;
 }
+
 void hello(string name = "everyone"); // prototype прототип функції, декларація функції
 
 int main()
